@@ -1,0 +1,8 @@
+pep8
+requests
+requests-oauthlib
+sqlalchemy
+flask
+# mysqlclient
+flask_cors
+flasgger
