@@ -1,5 +1,5 @@
 # AirBnB Clone - The Console
-# Author: Sarafina Gathoni, Samuel Archibong
+# Author: Samuel Archibong
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
@@ -155,8 +155,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Samuel Archibong - [Github](https://github.com/sammiearchie77) / [Twitter](https://twitter.com/gee_coding)  
-Sarah Gathoni - [Github](https://github.com/SarahGathoni) / [Twitter](https://twitter.com/)
+Samuel Archibong - [Github](https://github.com/sammiearchie77) / [Twitter](https://twitter.com/gee_coding)
 
 Second part of Airbnb: Joann Vuong
 ## License
